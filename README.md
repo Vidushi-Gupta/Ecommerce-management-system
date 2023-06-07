@@ -319,7 +319,6 @@ Function to count number of cart items
     end;
 ```
 ## Contributors
-Do check the contributors to follow some awesome projects
 
-- [Vidushi Gupt](https://www.github.com/bhumijgupta)
+- [Vidushi Gupta](https://www.github.com/bhumijgupta)
 - [Abhimanyu Bhadauria](https://www.github.com/YashMeh)
